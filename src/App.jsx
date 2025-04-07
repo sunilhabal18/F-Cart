@@ -1,7 +1,7 @@
 import Navbar from "./components/navbar/Navbar";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
-import Contact from "./components/pages/COntact";
+import Contact from "./components/pages/Contact";
 import Team from "./components/pages/Team";
 import Profile from "./components/pages/Profile";
 
