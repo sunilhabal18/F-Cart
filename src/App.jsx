@@ -5,11 +5,11 @@ import Contact from "./components/pages/Contact";
 import Team from "./components/pages/Team";
 import Profile from "./components/pages/Profile";
 
-import ProductDetails from "./components/pages/productDetails";
 import Home from "./components/pages/Home";
 import Product from "./components/pages/Product";
 import Searchterm from "./components/pages/Searchterm";
 import Cartitem from "./components/pages/Cartitem";
+import ProductDetails from "./components/pages/productDetails";
 
 const App = () => {
   const router = createBrowserRouter([
