@@ -9,7 +9,7 @@ import Home from "./components/pages/Home";
 import Product from "./components/pages/Product";
 import Searchterm from "./components/pages/Searchterm";
 import Cartitem from "./components/pages/Cartitem";
-import ProductDetails from "./components/pages/productDetails";
+import ProductDetails from "./components/pages/ProductDetails";
 
 const App = () => {
   const router = createBrowserRouter([
